@@ -77,9 +77,9 @@ bot.hears(regex, ctx => {
 
 
 bot.launch()
-app.get('/', (req, res) => {
-    res.send('Hello debug_Yourself1234123')
-})
+// app.get('/', (req, res) => {
+//     res.send('Hello debug_Yourself1234123')
+// })
 
 
 
